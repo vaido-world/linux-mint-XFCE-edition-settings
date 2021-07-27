@@ -4,8 +4,7 @@ Personal settings for Linux Mint XFCE Edition
 ### XFCE Clock format
 `%H:%M %n %Y/%m/%d`  
 
-![image](https://user-images.githubusercontent.com/21064622/127105539-8ca238b1-bb77-427a-ab76-64af4cafabcb.png)
-
+![image](https://user-images.githubusercontent.com/21064622/127105698-7d50d5e7-b058-4a44-9230-f570c4e4fd82.png)
 
 ![image](https://user-images.githubusercontent.com/21064622/127105262-b27554cb-f1e3-4e16-a3da-90cd62786f93.png)
 
