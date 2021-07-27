@@ -2,7 +2,7 @@
 Personal settings for Linux Mint XFCE Edition
 
 ### XFCE Clock format 
-* `%H:%M %n %Y/%m/%d`  
+`%H:%M %n %Y/%m/%d`  
 
 <details>
     <summary>Details</summary>
@@ -19,7 +19,7 @@ Personal settings for Linux Mint XFCE Edition
 </details>
 
 ### XFCE Panel Display Row Size 
-* `44px`
+`44px`
 
 <details>
     <summary>Details</summary>
@@ -32,9 +32,8 @@ Personal settings for Linux Mint XFCE Edition
 
 ### XFCE Panel Appearance Icons
 
-* Adjust Size Automatically `off`
-
-* Fixed Icon size `19px`
+Adjust Size Automatically `off`  
+Fixed Icon size `19px`  
 
 <details>
     <summary>Details</summary>
