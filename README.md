@@ -23,6 +23,8 @@ Personal settings for Linux Mint XFCE Edition
 
 <details>
     <summary>🧾 Details</summary>
+ 
+![image](https://user-images.githubusercontent.com/21064622/127105698-7d50d5e7-b058-4a44-9230-f570c4e4fd82.png)
     
 ![image](https://user-images.githubusercontent.com/21064622/127106214-4b81eb87-4891-45cd-a7ae-48dab68391bc.png)
     
@@ -37,6 +39,8 @@ Personal settings for Linux Mint XFCE Edition
 
 <details>
     <summary>🧾 Details</summary>
+ 
+![image](https://user-images.githubusercontent.com/21064622/127105698-7d50d5e7-b058-4a44-9230-f570c4e4fd82.png)
     
 ![image](https://user-images.githubusercontent.com/21064622/127106542-ede716ee-80d7-475b-b8ab-6bd41047bd2a.png)
 </details>
