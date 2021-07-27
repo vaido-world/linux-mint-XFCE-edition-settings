@@ -17,3 +17,6 @@ Personal settings for Linux Mint XFCE Edition
 ![image](https://user-images.githubusercontent.com/21064622/127104971-5412fd0f-a70c-4a0a-807b-ac0a493e1fb8.png)
 </details>
 
+### XFCE Panel Row Size
+
+![image](https://user-images.githubusercontent.com/21064622/127106214-4b81eb87-4891-45cd-a7ae-48dab68391bc.png)
