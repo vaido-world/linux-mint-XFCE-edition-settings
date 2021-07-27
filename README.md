@@ -32,8 +32,8 @@ Personal settings for Linux Mint XFCE Edition
 
 
 
-#### ⚒️ XFCE Panel Appearance Icons
-
+#### ⚒️ XFCE Panel Appearance 
+**Icons**  
  Adjust Size Automatically `off`  
  Fixed Icon size `19px`  
 
