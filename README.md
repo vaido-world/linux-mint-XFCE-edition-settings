@@ -2,7 +2,7 @@
 Personal settings for Linux Mint XFCE Edition
 
 #### ⚒️ XFCE Clock format 
- Format `%H:%M %n %Y/%m/%d`  
+ Format `%H:%M %n %Y/%m/%d  `  (Adding blank spaces at the end of the format makes it look better)
 
 <details>
     <summary>🧾 Details</summary>
