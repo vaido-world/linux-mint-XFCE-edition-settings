@@ -46,3 +46,7 @@ Personal settings for Linux Mint XFCE Edition
 </details>
 
 
+#### XFCE Super Key/Windows Key behaviour
+https://www.ubuntubuzz.com/2019/09/windows-key-on-xubuntuxfce-and-trisquelmate.html
+
+
