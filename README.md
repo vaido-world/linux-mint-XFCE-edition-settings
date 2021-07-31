@@ -50,3 +50,8 @@ Personal settings for Linux Mint XFCE Edition
 https://www.ubuntubuzz.com/2019/09/windows-key-on-xubuntuxfce-and-trisquelmate.html
 
 
+#### Kazam as a Screen Recorder
+    Super+Ctrl+R: Start recording  
+    Super+Ctrl+P: Pause recording, press again for resuming the recording  
+    Super+Ctrl+F: Finish recording  
+    Super+Ctrl+Q: Quit recording   
